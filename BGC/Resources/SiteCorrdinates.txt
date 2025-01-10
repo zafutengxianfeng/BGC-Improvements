@@ -1,8 +1,0 @@
-##亚热带模拟的站点坐标。如果模拟其他区域，需要利用站点经纬度在ENVI上的坐标替代
-##注意左上角为0,0
-##模拟区域,站点名称,植被类型,列号,行号
-Subtropical,dinghushan,5,1243,2246
-Subtropical,qianyanzhou,3,849,2527
-##安吉往右边移动了3个
-##Subtropical,Anji,1,432,3041
-Subtropical,Tianmushan,5,448,3028
